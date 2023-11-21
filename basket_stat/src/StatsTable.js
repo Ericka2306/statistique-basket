@@ -18,6 +18,7 @@ const StatsTable = () => {
       <table table className="table table-striped">
         <thead className="thead-dark">
           <tr>
+            <th scope="col">ID_match</th>
             <th scope="col">Joueur</th>
             <th scope="col">Passe-D</th>
             <th scope="col">B-perdue</th>
